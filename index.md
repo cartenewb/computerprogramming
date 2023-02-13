@@ -6,7 +6,7 @@
 
 OOP Graphic Calculator using processing IDE
 
-![Calculator]()
+![Calculator](https://github.com/cartenewb/computerprogramming/blob/gh-pages/images/calculatorss.png?raw=true)
 
 [Source Code]()
 
