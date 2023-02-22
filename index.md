@@ -1,4 +1,4 @@
-# Welcome to Carter Newberg's Programmiing Portfolio
+# Welcome to Carter Newberg's Programming Portfolio
 
 ## Programming Semester 1 Projects:
 
