@@ -28,3 +28,9 @@ Screen Saver Graphic program using processing IDE
 ![99 Bottles](https://github.com/cartenewb/computerprogramming/blob/gh-pages/images/99bottle%20ss.png)
 
 [Source Code](https://github.com/cartenewb/computerprogramming/tree/gh-pages/src/99Bottles)
+
+### Pig Latin Translator
+
+![Pig Latin](https://github.com/cartenewb/computerprogramming/blob/gh-pages/images/pig%20latin%20translator.png)
+
+[Source Code](https://github.com/cartenewb/computerprogramming/tree/gh-pages/src/Pig%20Latin)
